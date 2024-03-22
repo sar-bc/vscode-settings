@@ -1,0 +1,14 @@
+Python (microsoft)
+Pylance (microsoft)
+Pylint (microsoft)
+Black Formatter
+===
+файл .pylintrc кидам в корень проекта
+=======
+Django (Baptiste Darthenay)
+CSS Peek
+Auto Rename Tag
+IntelliSense for CSS class names in HTML
+
+
+

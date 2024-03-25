@@ -9,6 +9,7 @@ Django (Baptiste Darthenay)
 CSS Peek
 Auto Rename Tag
 IntelliSense for CSS class names in HTML
+=
 
 
 
